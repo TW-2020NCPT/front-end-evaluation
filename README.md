@@ -1,4 +1,4 @@
-### front-end-evaluation
+### project-manager
 
 > 此库为非计培训前端测评的 homework, 根据 db.json 中的数据，实现效果图中的效果
 
@@ -7,6 +7,7 @@
     - 尽可能的完成所有的 story 卡，以便获得更高的分数
     - 在线下pair前，提前准备好演示环境， 以便节约你的 pair 时间
     - 因为有删除操作，建议线下编码的过程中，先备份 db.json 中的数据
+    - 代码提交到单独的 github 仓库，注意 commit 规范
     - 注意编码规范
 
 #### 项目 Story
